@@ -42,3 +42,27 @@ rough design page #2
 ![case at this point](./journal_images/journal_case_1.png)
 
 ---
+
+*Date: 18 Jun, 2:50pm**
+
+**Time Spent: 1hr**
+
+**What I Did:**
+
+Made the back cover for the case
+
+![back cover](/journal_images/jjournal_caseCover_1.png)
+
+Steps I followed:
+- made a list of all the holes I needed in the case
+- found out the measurements for the components
+- tried to add holes on the circular case side => could not fiugre it out
+- decided to modify the design to include holes on the back cover only
+- added hole for the slider spdt switch
+- added hole for usb-c for charging module
+- added tiny holes for the mic to catch the sound easily
+- added a loop for the pendant ribbon
+
+> note: the back cover of the case is attached usuing glue, and the components are also put in place using glue (i'm unable to can build housing fo reach component)
+
+---
