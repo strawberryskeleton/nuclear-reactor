@@ -4,6 +4,13 @@ ironman's arc reactor themed sound responsive pendant
 ## Inspiration from:
 Link: [link to youtube video](https://www.youtube.com/watch?v=0NRY9WaExDg)
 
+## Features
+- has a ironman arc reactor top plate
+- the case should be translucent enough for light to shine through
+- has rechargeable battery
+- programmable leds to react to sound picked up from mic
+- has a notch to attach ribbon to make it a pendant
+
 ## Schematics
 > added a pdf file from kicad export in the 'schem' folder
 
