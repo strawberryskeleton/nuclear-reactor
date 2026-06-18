@@ -1,7 +1,25 @@
 # nuclear-reactor
 ironman's arc reactor themed sound responsive pendant
 
+## Inspiration from:
+Link: [link to youtube video](https://www.youtube.com/watch?v=0NRY9WaExDg)
 
+## Schematics
+> added a pdf file from kicad export in the 'schem' folder
+
+![schem](./images/schem.png)
+
+
+## Case - 3D Printed
+
+case assembled - top
+![case assembled - top](./images/case_assembled_top.png)
+
+case assembled - bottom
+![case assembled - bottom](./images/case_assembled_back.png)
+
+case lid
+![case lid](./images/case_lid.png)
 
 
 ## BOM
@@ -22,3 +40,9 @@ ironman's arc reactor themed sound responsive pendant
 > Note #2: conversion rate might change. one in BOM is as per google on 19 Jun 1:25am IST
 
 > NOTE #3: had to get 1m led strip since couldn't find any that was shorter
+
+## Credits
+- made by me
+- 3D case made in Fusion
+- Schem in KiCad
+- case top design plate from: [https://www.printables.com/model/624553-wearable-arc-reactor/files]

@@ -67,3 +67,17 @@ Steps I followed:
 > note: the back cover of the case is attached usuing glue, and the components are also put in place using glue (i'm unable to can build housing fo reach component)
 
 ---
+
+**Date: 19 Jun, 1:40am**
+
+**Time Spent: 1hr**
+
+**What I Did:**
+
+made BOM
+added images
+wrote readme
+completed journal
+started with the schematics
+
+---
