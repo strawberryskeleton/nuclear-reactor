@@ -11,10 +11,10 @@
 2. made a few rough designs
 
 rough design page #1
-![rough design page #1](./journal_images/)
+![rough design page #1](./journal_images/plan_page1.jpeg)
 
 rough design page #2
-![rough design page #1](./journal_images/)
+![rough design page #1](./journal_images/plan_page2.jpeg)
 
 3. went to sleep
 
@@ -43,7 +43,7 @@ rough design page #2
 
 ---
 
-*Date: 18 Jun, 2:50pm**
+**Date: 18 Jun, 2:50pm**
 
 **Time Spent: 1hr**
 
@@ -62,6 +62,7 @@ Steps I followed:
 - added hole for usb-c for charging module
 - added tiny holes for the mic to catch the sound easily
 - added a loop for the pendant ribbon
+
 
 > note: the back cover of the case is attached usuing glue, and the components are also put in place using glue (i'm unable to can build housing fo reach component)
 
