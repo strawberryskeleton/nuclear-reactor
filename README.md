@@ -12,7 +12,7 @@ Link: [link to youtube video](https://www.youtube.com/watch?v=0NRY9WaExDg)
 - has a notch to attach ribbon to make it a pendant
 
 ## Schematics
-> added a pdf file from kicad export in the 'schem' folder
+> microcontroller used is Xiao ESP32-S3 + charger module is not needed
 
 ![schem](./images/schem.png)
 
